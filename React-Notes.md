@@ -32,3 +32,9 @@
 - Composition: is a development pattern based on React's original component model where we build components from other components using explicit defined props or the implicit children prop
 - Custom Hooks: Hooks are reusable functions. When you have component logic that needs to be used by multiple components, we can extract that logic to a custom Hook. Custom Hooks start with "use". Example: useFetch.
 - React Hooks: are simple JavaScript functions that we can use to isolate the reusable part from a functional component.
+- Object: Objects are a useful way to store data when you have a set of related values that you will be accessing or updating together within a given component.
+- Arrays: An array is a collection of similar data elements stored at contiguous memory locations.
+
+# Good Resources:
+
+- https://shipshape.io/blog/react-objects-and-state/
