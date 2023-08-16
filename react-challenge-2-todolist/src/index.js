@@ -21,13 +21,7 @@ class TodoList extends React.Component {
     );
   }
 
-  handleItemClick(item, event) {
-    if (item.done) {
-      event.stopPropagation();
-    } else {
-      this.props.onItemClick(item, event);
-    }
-  }
+  handleItemClick(item, event) {}
 }
 
 const items = [
