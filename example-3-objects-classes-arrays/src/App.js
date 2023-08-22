@@ -1,5 +1,5 @@
 import "./App.css";
-import Object from "./pages/Object";
+import Object from "./pages/ObjectsAndArrays";
 
 function App() {
   return (
